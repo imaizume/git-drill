@@ -1,4 +1,4 @@
-# `add --patch` - 行単位でaddする (:star: :star: :star:)
+# `add --patch` | 行単位でaddする (:star: :star: :star:)
 
 ## 概要
 
@@ -6,7 +6,7 @@
 - `-p` を使うとファイルを行単位で `add` できる
 - 1つのファイルを複数のcommitに分けることが可能
 
-## 例題
+## 例題 (リポジトリ: [git-drill/add-patch](https://github.com/git-drill/add-patch))
 
 [`index.html`](url) のL5,L8,L10の内容に変更を加えた。 [操作] `index.2.html` を `index.html` としてコピー(上書き)
 L5,L8,L10のそれぞれを別のコミット、合計3つのコミットにしてください。
