@@ -1,5 +1,7 @@
 # Git Drill - Git演習問題集
 
+[git book版はこちらから](https://imaizume.gitbook.io/git-drill/-LMR6DYjovjrTX3cyT6K/)
+
 ## この本は何?
 
 Gitのコマンドを**理論よりも実践で覚えてもらうための演習問題集**です。
