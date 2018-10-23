@@ -26,7 +26,7 @@ gitをインストール後、演習を行う前に最低限必要な項目をgi
 
 設定は以上です、特に何も出力されない場合も設定は完了しているので大丈夫です。
 
-{% youtube src="https://youtu.be/gCkPZ5EVU5g" %}{% endyoutube %}
+{% youtube src="https://youtu.be/hQ_IIR_pavs" %}{% endyoutube %}
 
 ## リポジトリをダウンロードする方法
 
