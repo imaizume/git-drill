@@ -7,9 +7,8 @@
 
 ## 例題 (リポジトリ: [git-drill/add-and-commit](https://github.com/git-drill/add-and-commit))
 
-- [`index.html`](url) の内容に変更を加えた。
-- [操作] `index.2.html` を `index.html` としてコピー(上書き)
-- 変更内容を履歴として保存したい。
+- :mag: [`index.html`](url) の内容に変更を加えた。 :point_right: `index.2.html` を `index.html` にコピー(上書き)
+- :octocat: 変更内容を履歴として保存したい。
 
 ## 例題回答
 

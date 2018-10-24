@@ -8,8 +8,8 @@
 
 ## 例題 (リポジトリ: [git-drill/add-patch](https://github.com/git-drill/add-patch))
 
-[`index.html`](url) のL5,L8,L10の内容に変更を加えた。 [操作] `index.2.html` を `index.html` としてコピー(上書き)
-L5,L8,L10のそれぞれを別のコミット、合計3つのコミットにしてください。
+- :mag: [`index.html`](url) のL5,L8,L10の内容に変更を加えた :point_right: `index.2.html` を `index.html` にコピー(上書き)
+- :octocat: L5,L8,L10のそれぞれを別のコミット(合計3つのコミット)にせよ
 
 ## 例題回答
 

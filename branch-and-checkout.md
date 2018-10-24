@@ -15,11 +15,11 @@
 
 TODO: 例題リポジトリのブランチ図を入れる
 
-- 初期状態では `master` ブランチ上にいる
-- `develop` ブランチが存在することを確認してチェックアウトせよ
-- 次に `develop` ブランチ上で新たなブランチ `my-branch` を作成しチェックアウトせよ
-- また `my-branch` 上では `my-branch` が消せないことを確かめること
-- 最後に `useless` ブランチが存在することを確認して削除せよ
+- :mag: 現在 `master` ブランチ上にいる
+- :octocat: `develop` ブランチが存在することを確認してチェックアウトせよ
+- :octocat: 次に `develop` ブランチ上で新たなブランチ `my-branch` を作成しチェックアウトせよ
+- :octocat: また `my-branch` 上では `my-branch` が消せないことを確かめよ
+- :octocat: 最後に `useless` ブランチが存在することを確認して削除せよ
 
 ## 例題回答
 
