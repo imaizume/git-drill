@@ -16,45 +16,41 @@
 1. `git add -p index.html`
 2. _Stage this hunk_ で `s` を入力しEnter
 3. 以下の表示がされていることを確認して `y` を入力しEnter
-
--  <title>Patch Add</title>
-+  <title>Git Drill - Patch Add</title>
-
+    ```
+    -  <title>Add</title>
+    +  <title>Patch Add</title>
+    ```
 4. `q` を入力しEnter
-5. git diff で以下の表示を確認
-
-```
---- a/index.html
-+++ b/index.html
-@@ -5,9 +5,9 @@
-   <title>Git Drill - Patch Add</title>
- </head>
- <body>
--  <p><code>git add --patch</code>すると行単位で<code>add</code>することができます。</p>
-+  <p><code>git add --patch</code>または<code>git add -p</code>すると行単位で<code>add</code>することができます。</p>
-   <p>なぜそうする必要があるのでしょうか?</p>
--  <p>それは1つのcommitを大きな変更の塊に分けるためです。</p>
-+  <p>それは1つの変更を小さなcommitの塊に分けるためです。</p>
- </body>
- </html>
-```
-
+5. `git diff` で以下の表示を確認
+    ```
+    --- a/index.html
+    +++ b/index.html
+    @@ -5,9 +5,9 @@
+       <title>Patch Add</title>
+     </head>
+     <body>
+    -  <p><code>git add</code>するとファイル単位で<code>add</code>することができます。</p>
+    +  <p><code>git add --patch</code>すると行単位で<code>add</code>することができます。</p>
+       <p>なぜそうする必要があるのでしょうか?</p>
+    -  <p>それは1つのcommitを大きな変更の塊に分けるためです。</p>
+    +  <p>それは1つのcommitを小さな変更の塊に分けるためです。</p>
+     </body>
+     </html>
+    ```
 6. `git diff --staged` で以下の表示を確認
-
-```
---- a/index.html
-+++ b/index.html
-@@ -2,7 +2,7 @@
- <html lang="en">
- <head>
-   <meta charset="UTF-8">
--  <title>Patch Add</title>
-+  <title>Git Drill - Patch Add</title>
- </head>
- <body>
-   <p><code>git add --patch</code>すると行単位で<code>add</code>することができます。</p>
-```
-
+    ```
+    --- a/index.html
+    +++ b/index.html
+    @@ -2,7 +2,7 @@
+     <html lang="en">
+     <head>
+       <meta charset="UTF-8">
+    -  <title>Add</title>
+    +  <title>Patch Add</title>
+     </head>
+     <body>
+       <p><code>git add</code>するとファイル単位で<code>add</code>することができます。</p>
+    ```
 7. 任意のタイトルでgit commitする 例: `git commit -m "タイトルにサイト名を追加"`
 8. 上記1~7をあと1回繰り返す (L8の差分のみをgit commitする)
 9. 通常のgit commitでL10の差分をgit commitする
