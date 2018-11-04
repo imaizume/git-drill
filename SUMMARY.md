@@ -6,4 +6,6 @@
 * [add & commit | ファイルのコミットログを作成する (★)](add-and-commit.md)
 * [branch & checkout | ブランチを作る (★)](branch-and-checkout.md)
 * [add --patch | 行単位でaddする (★★★)](patch-add.md)
+* [rebase --interactive (squash/re-order) | 複数のcommitを1つにまとめる/順序を入れ替える (★★★)](interactive-rebase-with-squash.md)
+
 
