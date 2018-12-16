@@ -1,4 +1,6 @@
-# rebase --interactive (squash/re-order) | 複数のcommitを1つにまとめる/順序を入れ替える (★★★)
+# rebase --interactive (squash/re-order) | 複数のcommitを1つにまとめる/順序を入れ替える
+
+## 難易度 :star: :star: :star:
 
 ## 概要
 

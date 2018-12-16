@@ -1,4 +1,6 @@
-# detached HEAD | ブランチから外れる (★★)
+# detached HEAD | ブランチから外れる
+
+## 難易度 :star: :star:
 
 :bulb:  _"detached HEAD"はgitコマンドではありません、練習問題にてdetached HEADを再現するための手順を学習しましょう_
 

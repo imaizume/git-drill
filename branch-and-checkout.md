@@ -1,4 +1,6 @@
-# branch & checkout | ブランチを作る (★)
+# branch & checkout | ブランチを作る
+
+## 難易度 :star:
 
 ブランチは
 

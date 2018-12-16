@@ -1,4 +1,4 @@
-# add --patch | 行単位でaddする (★★★)
+# :star: :star: :star: add --patch | 行単位でaddする
 
 ## 概要
 
