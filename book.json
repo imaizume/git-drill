@@ -1,6 +1,10 @@
 {
     "plugins": [
       "advanced-emoji",
+      "ace",
       "youtube"
-    ]
+    ],
+    "pluginsConfig": {
+      "theme": "monokai"
+    }
 }
