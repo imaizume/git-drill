@@ -1,6 +1,6 @@
 # add & commit | ファイルのコミットログを作成する
 
-// TODO: 概念図
+![概念図](/img/add-and-commit/top.png)
 
 ## 難易度 :star:
 
