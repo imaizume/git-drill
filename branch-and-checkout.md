@@ -1,8 +1,8 @@
 # branch & checkout | ブランチを作る
 
-## 難易度 :star:
+TODO: 概念図
 
-ブランチは
+## 難易度 :star:
 
 ## 概要
 
@@ -17,7 +17,7 @@
 
 TODO: 例題リポジトリのブランチ図を入れる
 
-- :mag: 現在 `master` ブランチ上にいる
+- :computer: 現在 `master` ブランチ上にいる
 - :octocat: `develop` ブランチが存在することを確認してチェックアウトせよ
 - :octocat: 次に `develop` ブランチ上で新たなブランチ `my-branch` を作成しチェックアウトせよ
 - :octocat: また `my-branch` 上では `my-branch` が消せないことを確かめよ
