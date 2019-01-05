@@ -2,8 +2,9 @@
 
 * [この本について](README.md)
 * [Git Drillの構成](excercise-tutorial.md)
-* [例題・演習問題用リポジトリのダウンロード方法](excercise-manual.md)
+* [例題・演習課題用リポジトリのダウンロード方法](excercise-manual.md)
 * [add & commit | ファイルのコミットログを作成する (★)](add-and-commit.md)
+* [add & reset | 差分のステージとアンステージ (★)](add-and-reset.md)
 * [branch & checkout | ブランチを作る (★)](branch-and-checkout.md)
 * [merge --abort | mergeを中止する (★)](merge-abort.md)
 * [detached HEAD | ブランチから外れる (★★)](detached-head.md)
